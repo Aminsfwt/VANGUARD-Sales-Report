@@ -197,7 +197,6 @@ Vanguard-Sales-Report/
     └── sales_channels_payment_behaviour.png
 ```
 
-> Adjust file and folder names to match your actual project files.
 
 ---
 
@@ -218,7 +217,7 @@ Vanguard-Sales-Report/
 
 **Amin Safout Ali**, BI Data Analyst
 - LinkedIn: [linkedin.com/in/aminsafoutali](https://linkedin.com/in/aminsafoutali)
-- GitHub: [github.com/Aminsfwt](https://github.com/Aminsfwt)
+- Power BI Service: [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMTJmMzZlYzUtMTQ4MC00NjY4LWFmODgtMzdjMDc4MWVmNDNlIiwidCI6IjM3ODljOWY3LWM4NDEtNGMyMi1hZjVhLTQ5MWRhOTk5MWQ4NiJ9&embedImagePlaceholder=true)
 - Email: aminsafoutali@gmail.com
 
 ---
